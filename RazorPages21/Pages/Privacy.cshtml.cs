@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace RazorPages21.Pages
+namespace RazorPagesMovie21.Pages
 {
     public class PrivacyModel : PageModel
     {
